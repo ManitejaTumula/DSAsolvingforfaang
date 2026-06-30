@@ -23,7 +23,7 @@ class Solution:
             for c in range(cols):
                 if board[r][c] =="O":
                     board[r][c]="X"
-        #uncapturing the surrounded regions (T-> X)
+        #uncapturing the surrounded regions (T-> O)
         for r in range(rows):
             for c in range(cols):
                 if board[r][c]=="T":
