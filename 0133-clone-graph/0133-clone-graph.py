@@ -5,20 +5,23 @@ class Node:
         self.val = val
         self.neighbors = neighbors if neighbors is not None else []
 """
-
+from collections import deque
 from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
+        if node is None:
+            return None
         oldtonew={}
-        def dfs(node):
-            if node is None:
-                return None
-            if node in oldtonew:
-                return oldtonew[node]
-            copy=Node(node.val)
-            oldtonew[node]=copy
-            for nei in node.neighbors:
-                copy.neighbors.append(dfs(nei))
-            return copy
-        return dfs(node)
+        oldtonew[node]=Node(node.val)
+        queue=deque([node])
+        while queue:
+            curr=queue.popleft()
+            for nei in curr.neighbors:
+                if nei not in oldtonew:
+                    oldtonew[nei] = Node(nei.val)
+                    queue.append(nei)
+                oldtonew[curr].neighbors.append(oldtonew[nei])
+
+        return oldtonew[node]
+        
         
