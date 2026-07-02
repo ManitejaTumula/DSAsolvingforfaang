@@ -12,6 +12,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0994-rotting-oranges) |
 ## Matrix
@@ -42,6 +43,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0207-course-schedule) |
 ## Union-Find
 |  |
 | ------- |
@@ -50,4 +52,9 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
