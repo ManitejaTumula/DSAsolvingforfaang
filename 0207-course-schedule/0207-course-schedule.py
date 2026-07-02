@@ -11,7 +11,7 @@ class Solution:
       for i in range(numCourses):
         if indegree[i]==0:
             queue.append(i)
-        finish=0
+      finish=0
       while queue:
         curr=queue.popleft()
         finish+=1
