@@ -13,8 +13,8 @@ class Solution:
         for i in range(len(graph)):
             if i not in color:
                 color[i]=0
-            if not dfs(i):
-                return False
+                if not dfs(i):
+                    return False
         return True
 
         
