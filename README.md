@@ -76,4 +76,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0210-course-schedule-ii) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
