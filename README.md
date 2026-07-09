@@ -8,6 +8,7 @@
 | [0542-01-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1301-number-of-paths-with-max-score) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0133-clone-graph) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 | [0684-redundant-connection](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -75,6 +78,7 @@
 | [0743-network-delay-time](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -97,4 +101,8 @@
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
