@@ -11,6 +11,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1631-path-with-minimum-effort) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | ------- |
 | [0542-01-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0542-01-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0785-is-graph-bipartite](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -119,4 +122,21 @@
 | [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1631-path-with-minimum-effort) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Sorting
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
