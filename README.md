@@ -6,6 +6,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0542-01-matrix) |
+| [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1631-path-with-minimum-effort) |
@@ -20,6 +21,7 @@
 | [0542-01-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1631-path-with-minimum-effort) |
@@ -29,6 +31,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0542-01-matrix) |
+| [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1631-path-with-minimum-effort) |
@@ -61,6 +64,7 @@
 | [0210-course-schedule-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -69,6 +73,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0684-redundant-connection) |
+| [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -98,6 +103,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
@@ -110,6 +116,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1631-path-with-minimum-effort) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
