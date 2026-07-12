@@ -9,6 +9,7 @@
 | [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1331-rank-transform-of-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1631-path-with-minimum-effort) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0133-clone-graph) |
+| [1331-rank-transform-of-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -142,5 +144,6 @@
 ## Sorting
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
