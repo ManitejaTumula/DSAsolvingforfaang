@@ -12,6 +12,7 @@
 | [1260-shift-2d-grid](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -153,6 +154,7 @@
 | [0743-network-delay-time](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -201,6 +203,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3867-sum-of-gcd-of-formed-pairs) |
