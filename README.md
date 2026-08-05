@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0130-surrounded-regions) |
+| [0198-house-robber](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0628-maximum-product-of-three-numbers) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0746-min-cost-climbing-stairs) |
