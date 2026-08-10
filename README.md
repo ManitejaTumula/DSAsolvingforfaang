@@ -10,6 +10,7 @@
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0628-maximum-product-of-three-numbers) |
+| [0740-delete-and-earn](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
 | [0877-stone-game](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0877-stone-game) |
@@ -73,6 +74,7 @@
 | [0213-house-robber-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0542-01-matrix) |
+| [0740-delete-and-earn](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0877-stone-game) |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0133-clone-graph) |
+| [0740-delete-and-earn](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
