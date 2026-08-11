@@ -7,6 +7,7 @@
 | [0130-surrounded-regions](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0628-maximum-product-of-three-numbers) |
@@ -41,6 +42,7 @@
 | [0133-clone-graph](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0743-network-delay-time) |
@@ -72,6 +74,7 @@
 | [0070-climbing-stairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0740-delete-and-earn) |
@@ -337,4 +340,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1510-stone-game-iv) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
