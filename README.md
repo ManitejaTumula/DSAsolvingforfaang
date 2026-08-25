@@ -19,6 +19,7 @@
 | [0740-delete-and-earn](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1140-stone-game-ii) |
@@ -260,6 +261,7 @@
 | [0035-search-insert-position](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0875-koko-eating-bananas) |
 | [1631-path-with-minimum-effort](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
