@@ -8,6 +8,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0035-search-insert-position) |
 | [0130-surrounded-regions](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0130-surrounded-regions) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0322-coin-change) |
@@ -265,6 +266,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0875-koko-eating-bananas) |
