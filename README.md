@@ -441,4 +441,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1143-longest-common-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
