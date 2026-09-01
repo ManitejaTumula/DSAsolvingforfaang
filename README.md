@@ -213,6 +213,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0628-maximum-product-of-three-numbers) |
@@ -269,6 +270,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
@@ -445,4 +447,8 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
