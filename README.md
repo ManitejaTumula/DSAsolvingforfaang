@@ -14,6 +14,7 @@
 | [0198-house-robber](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0540-single-element-in-a-sorted-array) |
@@ -100,6 +101,7 @@
 | [0198-house-robber](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0542-01-matrix) |
@@ -264,6 +266,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3312-sorted-gcd-pair-queries) |
@@ -278,6 +281,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
@@ -301,6 +305,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
+| [0410-split-array-largest-sum](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1927-sum-game) |
