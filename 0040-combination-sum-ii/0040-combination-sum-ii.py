@@ -12,6 +12,8 @@ class Solution:
             for i in range(index,len(candidates)):
                 if i > index and candidates[i] == candidates[i - 1]:
                     continue
+                if candidates[i] > target:
+                    break
                 current.append(candidates[i])
                 backtrack(i+1, target - candidates[i])
                 current.pop()
