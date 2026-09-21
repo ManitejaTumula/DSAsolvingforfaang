@@ -103,6 +103,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0322-coin-change) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1143-longest-common-subsequence) |
@@ -440,6 +442,7 @@
 | [0040-combination-sum-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0131-palindrome-partitioning) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
