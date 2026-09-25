@@ -13,6 +13,7 @@
 | [0051-n-queens](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0162-find-peak-element) |
@@ -330,6 +331,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0090-subsets-ii) |
 | [1386-cinema-seat-allocation](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -445,6 +447,7 @@
 | [0046-permutations](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0131-palindrome-partitioning) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
