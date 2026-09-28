@@ -406,6 +406,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -480,6 +481,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Newton's Method
 |  |
