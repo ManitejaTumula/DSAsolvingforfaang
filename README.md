@@ -309,6 +309,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -482,6 +483,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Newton's Method
 |  |
