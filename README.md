@@ -148,6 +148,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
@@ -385,6 +386,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -496,5 +498,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
