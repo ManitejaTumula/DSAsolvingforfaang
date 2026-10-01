@@ -409,6 +409,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -484,6 +485,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
