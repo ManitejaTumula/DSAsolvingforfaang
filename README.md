@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0198-house-robber) |
@@ -151,6 +152,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -389,6 +391,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -505,6 +508,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0032-longest-valid-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
