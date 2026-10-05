@@ -159,6 +159,7 @@
 | [0131-palindrome-partitioning](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0131-palindrome-partitioning) |
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -400,6 +401,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0032-longest-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -517,6 +519,7 @@
 | [0022-generate-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0856-score-of-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
