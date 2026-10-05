@@ -11,6 +11,7 @@
 | [0040-combination-sum-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0090-subsets-ii) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0198-house-robber) |
@@ -323,6 +325,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0678-valid-parenthesis-string) |
