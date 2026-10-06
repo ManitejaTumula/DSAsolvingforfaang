@@ -160,6 +160,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -330,6 +331,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
 | [0410-split-array-largest-sum](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1927-sum-game) |
@@ -402,6 +404,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -520,6 +523,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
