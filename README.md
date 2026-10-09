@@ -322,6 +322,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -403,6 +404,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0032-longest-valid-parentheses) |
+| [0143-reorder-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0856-score-of-parentheses) |
@@ -429,6 +431,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
 ## Game Theory
@@ -507,6 +510,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
