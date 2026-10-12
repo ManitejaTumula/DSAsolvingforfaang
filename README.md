@@ -431,6 +431,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
@@ -508,6 +509,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0143-reorder-list) |
