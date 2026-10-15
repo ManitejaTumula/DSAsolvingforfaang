@@ -23,6 +23,7 @@
 | [0322-coin-change](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0542-01-matrix) |
@@ -136,6 +137,7 @@
 | [0133-clone-graph](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -406,6 +408,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -414,6 +417,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
