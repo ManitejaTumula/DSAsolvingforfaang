@@ -29,6 +29,7 @@
 | [0542-01-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
@@ -410,6 +411,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -418,6 +420,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
