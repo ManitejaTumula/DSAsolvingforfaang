@@ -413,6 +413,7 @@
 | [0678-valid-parenthesis-string](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -421,6 +422,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
@@ -545,4 +547,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0142-linked-list-cycle-ii) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
