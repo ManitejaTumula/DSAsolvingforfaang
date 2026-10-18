@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0090-subsets-ii) |
@@ -361,6 +362,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -555,4 +557,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0901-online-stock-span) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
