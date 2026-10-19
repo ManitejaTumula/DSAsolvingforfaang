@@ -13,6 +13,7 @@
 | [0051-n-queens](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0090-subsets-ii) |
