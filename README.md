@@ -24,6 +24,7 @@
 | [0213-house-robber-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0496-next-greater-element-i) |
@@ -141,6 +142,7 @@
 | [0133-clone-graph](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1331-rank-transform-of-an-array) |
@@ -277,6 +279,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -367,6 +370,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -403,6 +407,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3312-sorted-gcd-pair-queries) |
@@ -569,8 +574,14 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
