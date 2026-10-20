@@ -22,6 +22,7 @@
 | [0162-find-peak-element](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0215-kth-largest-element-in-an-array) |
 | [0322-coin-change](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
@@ -275,6 +276,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -364,6 +366,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -562,4 +565,12 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0056-merge-intervals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
