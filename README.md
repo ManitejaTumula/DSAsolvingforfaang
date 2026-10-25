@@ -39,6 +39,7 @@
 | [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1140-stone-game-ii) |
@@ -254,6 +255,7 @@
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1510-stone-game-iv) |
@@ -284,6 +286,7 @@
 | [0743-network-delay-time](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -373,6 +376,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -578,11 +582,13 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -599,4 +605,12 @@
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
