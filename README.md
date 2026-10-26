@@ -42,6 +42,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1301-number-of-paths-with-max-score) |
@@ -288,6 +289,7 @@
 | [0778-swim-in-rising-water](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2812-find-the-safest-path-in-a-grid) |
