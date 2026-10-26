@@ -280,6 +280,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -534,6 +535,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0142-linked-list-cycle-ii) |
@@ -580,6 +582,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0973-k-closest-points-to-origin) |
@@ -613,4 +616,12 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0973-k-closest-points-to-origin) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
