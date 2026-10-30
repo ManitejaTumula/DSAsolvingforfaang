@@ -285,6 +285,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -343,6 +344,7 @@
 | [0141-linked-list-cycle](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -381,6 +383,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0628-maximum-product-of-three-numbers) |
@@ -576,11 +579,13 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0901-online-stock-span) |
 ## Quicksort
