@@ -145,6 +145,7 @@
 | [0133-clone-graph](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0621-task-scheduler) |
@@ -255,6 +256,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0877-stone-game) |
@@ -344,6 +346,7 @@
 | [0141-linked-list-cycle](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0143-reorder-list) |
+| [0202-happy-number](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0295-find-median-from-data-stream) |
 | [0876-middle-of-the-linked-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -576,6 +579,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0202-happy-number) |
 ## Design
 |  |
 | ------- |
