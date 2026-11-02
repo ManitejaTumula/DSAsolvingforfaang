@@ -14,6 +14,7 @@
 | [0055-jump-game](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0090-subsets-ii) |
@@ -254,6 +255,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0202-happy-number) |
