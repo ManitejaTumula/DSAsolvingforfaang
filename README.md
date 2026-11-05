@@ -255,6 +255,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0070-climbing-stairs) |
@@ -474,6 +475,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0486-predict-the-winner) |
