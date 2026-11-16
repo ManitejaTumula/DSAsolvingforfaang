@@ -184,6 +184,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -424,6 +425,7 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1260-shift-2d-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/3867-sum-of-gcd-of-formed-pairs) |
