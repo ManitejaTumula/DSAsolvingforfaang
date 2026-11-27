@@ -32,6 +32,7 @@
 | [0518-coin-change-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0704-binary-search) |
@@ -152,6 +153,7 @@
 | [0202-happy-number](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0740-delete-and-earn) |
 | [1331-rank-transform-of-an-array](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1331-rank-transform-of-an-array) |
@@ -322,6 +324,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1140-stone-game-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/ManitejaTumula/DSAsolvingforfaang/tree/master/1872-stone-game-viii) |
